@@ -1,0 +1,20 @@
+PCs: 10
+Success: 116
+Total: 205
+rate: 0.5658536585365853%
+
+PCs: 25
+Success: 143
+Total: 205
+rate: 0.697560975609756%
+
+PCs: 50
+Success: 146
+Total: 205
+rate: 0.7121951219512195%
+
+PCs: 100
+Success: 145
+Total: 205
+rate: 0.7073170731707317%
+

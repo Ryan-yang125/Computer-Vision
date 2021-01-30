@@ -1,0 +1,3 @@
+Python == 3.7.6
+Numpy == 1.8.1
+Opencv-python == 4.2.0.34

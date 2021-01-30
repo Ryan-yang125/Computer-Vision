@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/opt/anaconda3/bin/python",
+    "editor.defaultFormatter": "ms-python.python"
+}
